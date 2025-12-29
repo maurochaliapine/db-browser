@@ -1,0 +1,22 @@
+# Variables de entorno
+.env
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Volúmenes de Docker (si se montan localmente)
+mysql_data/
+
+
+
