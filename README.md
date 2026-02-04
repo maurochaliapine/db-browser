@@ -1,1 +1,1 @@
-# poc-3d-paneles
+# pruebas-de-carga
